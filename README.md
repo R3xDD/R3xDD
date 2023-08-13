@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/youssef-R3xD/R3xDD/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bril3d/Bril3d/output/snake.svg" alt="Snake animation" />
 
 ###
 
