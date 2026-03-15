@@ -1,5 +1,5 @@
 # R3xDD
-<h2 align="left">Hi 👋! My name is Youssef Briki and I'm a Front End Developer, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Youssef Briki and I'm a Full Stack Developer, from Tunisia</h2>
 
 ###
 
